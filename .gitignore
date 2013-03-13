@@ -1,6 +1,8 @@
 *~
+*.toc
 *.swp
 *.aux
 *.log
 business.pdf
+shimlagold.pdf
 *.gz
